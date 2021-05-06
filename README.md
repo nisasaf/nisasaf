@@ -3,7 +3,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nisasaf alt=nisasaf /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nisasaf&show_icons=true&include_all_commits=true)](https://github.com/nisasaf/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisasaf&layout=compact)](https://github.com/nisasaf/github-readme-stats)
 
 
