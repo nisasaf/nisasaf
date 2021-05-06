@@ -3,7 +3,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nisasaf alt=nisasaf /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisasaf&layout=compact)](https://github.com/nisasaf/github-readme-stats)
 
 
 <img src=https://res.cloudinary.com/practicaldev/image/fetch/s--5SXqnWZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif>
